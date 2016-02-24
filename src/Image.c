@@ -14,8 +14,9 @@ Fichier qui comporte tout la définition des fonction de ce module
 #include "Image.h"
 
 static void helle(char *t){
-printf("Hello %s",t);
 
+printf("Hello %s",t);
+printf("\n Bienvenu dans le monde de c la ou les fonctions et les variable vivent en harmonie");
 }
 
 void imInit(Image *im,const int dimx,const int dimy )
