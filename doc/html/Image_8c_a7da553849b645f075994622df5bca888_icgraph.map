@@ -1,0 +1,8 @@
+<map id="setPix" name="setPix">
+<area shape="rect" id="node2" href="$Image_8h.html#a44937c2130f18bd4a14481a5446d6e80" title="imDessineRectangle dessine un rectangle de couleur dans l&#39;image en utilisant setPix ..." alt="" coords="112,56,255,83"/>
+<area shape="rect" id="node6" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="468,107,519,133"/>
+<area shape="rect" id="node7" href="$Image_8h.html#a0a1f0b9be4b910e1cfc2648cfa9e38fd" title="imOuvrir ouvre l&#39;image " alt="" coords="307,183,377,209"/>
+<area shape="rect" id="node3" href="$Image_8h.html#ae11c1ca640aae91cb1419158ad5bdf59" title="imEffacer efface l&#39;image en appelant imDessineRectangle avec le bon rectangle " alt="" coords="303,31,381,57"/>
+<area shape="rect" id="node4" href="$Image_8h.html#a8d4964490fb1a67b590ce77acd78031f" title="imTestRegression Effectue une série de tests vérifiant que le module fonctionne et que les champs de ..." alt="" coords="429,5,557,32"/>
+<area shape="rect" id="node5" href="$mainTest_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="605,5,656,32"/>
+</map>

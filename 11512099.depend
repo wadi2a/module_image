@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1455143587 source:/home/wadi2a/Desktop/11512099/src/Pixel.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"Pixel.h"
+
+1455143580 /home/wadi2a/Desktop/11512099/src/Pixel.h
+

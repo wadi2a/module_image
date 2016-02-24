@@ -1,0 +1,10 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$Image_8c.html#a6edbdf3bfe3beb4e44246a6c7985055c" title="imInit initialise dimx et dimy (après vérification) de la structure Image puis alloue le tableau de p..." alt="" coords="275,30,329,57"/>
+<area shape="rect" id="node3" href="$Image_8c.html#ae11c1ca640aae91cb1419158ad5bdf59" title="imEffacer efface l&#39;image en appelant imDessineRectangle avec le bon rectangle " alt="" coords="104,233,183,259"/>
+<area shape="rect" id="node4" href="$Image_8c.html#a01084dc5c10d366999aece5432dc823f" title="imDessineRectangle dessine un rectangle de couleur dans l&#39;image en utilisant setPix ..." alt="" coords="231,182,373,209"/>
+<area shape="rect" id="node5" href="$Image_8c.html#a7da553849b645f075994622df5bca888" title="setPix modifie le pixel de coordonnées (x,y) " alt="" coords="421,81,480,107"/>
+<area shape="rect" id="node6" href="$Image_8c.html#a20b9ad35b6db7bd09d7452574d04dd50" title="imSauver Enregistre l&#39;image " alt="" coords="105,131,182,158"/>
+<area shape="rect" id="node8" href="$Image_8c.html#a0a1f0b9be4b910e1cfc2648cfa9e38fd" title="imOuvrir ouvre l&#39;image " alt="" coords="108,81,179,107"/>
+<area shape="rect" id="node9" href="$Image_8c.html#a5931290abc22d365ae351381c594613f" title="imLibere Libère la mémoire du tableau de pixels et met les champs dimx et dimy de la structure à 0 ..." alt="" coords="108,283,179,310"/>
+<area shape="rect" id="node7" href="$Image_8c.html#a1cb04a46ed83be9a0c49b3b884c91d62" title="getPix récupère le pixel de coordonnées (x,y) en vérifiant leur validité " alt="" coords="273,131,331,158"/>
+</map>

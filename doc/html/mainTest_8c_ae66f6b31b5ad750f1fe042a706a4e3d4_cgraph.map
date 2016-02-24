@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$Image_8c.html#a8d4964490fb1a67b590ce77acd78031f" title="imTestRegression Effectue une série de tests vérifiant que le module fonctionne et que les champs de ..." alt="" coords="104,107,232,133"/>
+<area shape="rect" id="node3" href="$Image_8c.html#acd1b5e5f7a7fa80087a1e53bfa4da49d" title="imCreer alloue dans le tas une structure Image puis l&#39;initialise avec imInit avant de la retourner ..." alt="" coords="287,5,355,32"/>
+<area shape="rect" id="node5" href="$Image_8c.html#a01084dc5c10d366999aece5432dc823f" title="imDessineRectangle dessine un rectangle de couleur dans l&#39;image en utilisant setPix ..." alt="" coords="411,107,553,133"/>
+<area shape="rect" id="node7" href="$Image_8c.html#a1cb04a46ed83be9a0c49b3b884c91d62" title="getPix récupère le pixel de coordonnées (x,y) en vérifiant leur validité " alt="" coords="292,107,351,133"/>
+<area shape="rect" id="node8" href="$Image_8c.html#ae11c1ca640aae91cb1419158ad5bdf59" title="imEffacer efface l&#39;image en appelant imDessineRectangle avec le bon rectangle " alt="" coords="282,157,361,184"/>
+<area shape="rect" id="node9" href="$Image_8c.html#acf3867531d803daad076cf18d2a14935" title="imDetruire Libere le tableau de pixel en appelant imLibere puis détruit la structure image ..." alt="" coords="280,208,363,235"/>
+<area shape="rect" id="node4" href="$Image_8c.html#a6edbdf3bfe3beb4e44246a6c7985055c" title="imInit initialise dimx et dimy (après vérification) de la structure Image puis alloue le tableau de p..." alt="" coords="455,5,509,32"/>
+<area shape="rect" id="node6" href="$Image_8c.html#a7da553849b645f075994622df5bca888" title="setPix modifie le pixel de coordonnées (x,y) " alt="" coords="601,107,660,133"/>
+<area shape="rect" id="node10" href="$Image_8c.html#a5931290abc22d365ae351381c594613f" title="imLibere Libère la mémoire du tableau de pixels et met les champs dimx et dimy de la structure à 0 ..." alt="" coords="447,208,517,235"/>
+</map>

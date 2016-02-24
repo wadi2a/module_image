@@ -1,0 +1,4 @@
+<map id="imOuvrir" name="imOuvrir">
+<area shape="rect" id="node2" href="$Image_8c.html#a6edbdf3bfe3beb4e44246a6c7985055c" title="imInit initialise dimx et dimy (après vérification) de la structure Image puis alloue le tableau de p..." alt="" coords="126,5,181,32"/>
+<area shape="rect" id="node3" href="$Image_8c.html#a7da553849b645f075994622df5bca888" title="setPix modifie le pixel de coordonnées (x,y) " alt="" coords="124,56,183,83"/>
+</map>

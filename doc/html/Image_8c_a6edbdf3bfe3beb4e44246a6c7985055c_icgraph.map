@@ -1,0 +1,7 @@
+<map id="imInit" name="imInit">
+<area shape="rect" id="node2" href="$Image_8h.html#acd1b5e5f7a7fa80087a1e53bfa4da49d" title="imCreer alloue dans le tas une structure Image puis l&#39;initialise avec imInit avant de la retourner ..." alt="" coords="109,5,177,32"/>
+<area shape="rect" id="node5" href="$Image_8h.html#a0a1f0b9be4b910e1cfc2648cfa9e38fd" title="imOuvrir ouvre l&#39;image " alt="" coords="108,56,179,83"/>
+<area shape="rect" id="node6" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="265,81,316,108"/>
+<area shape="rect" id="node3" href="$Image_8h.html#a8d4964490fb1a67b590ce77acd78031f" title="imTestRegression Effectue une série de tests vérifiant que le module fonctionne et que les champs de ..." alt="" coords="227,5,355,32"/>
+<area shape="rect" id="node4" href="$mainTest_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="403,5,453,32"/>
+</map>
