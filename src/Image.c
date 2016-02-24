@@ -1,3 +1,4 @@
+
 /**
 @brief Fichier .c du Module Image
 Fichier qui comporte tout la définition des fonction de ce module
@@ -11,6 +12,11 @@ Fichier qui comporte tout la définition des fonction de ce module
 #include <stdlib.h>
 #include <assert.h>
 #include "Image.h"
+
+static void helle(char *t){
+printf("Hello %s",t);
+
+}
 
 void imInit(Image *im,const int dimx,const int dimy )
 {
@@ -52,6 +58,7 @@ void imDetruire(Image *pim)
 
 
 }
+
 Pixel getPix(const Image *im,const int x,const int y)
 {
 
