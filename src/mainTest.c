@@ -24,7 +24,7 @@ Accéder au répertoire /11512099/bin/Debug vous trouvez l'executable ou vous po
 
 
 int main()
-{
+{printf("Voilà maintenant on va executer un test pour tester tout les fonctions");
 imTestRegression();
 return 0;
 }
